@@ -10,3 +10,9 @@ body{
 .mycard1:hover, .mycard2:hover, .mycard3:hover {
     border: 2px solid white;
 }
+
+
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: rgb(61 33 67) !important;
+}
