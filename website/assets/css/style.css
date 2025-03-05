@@ -1,6 +1,16 @@
 body{
-    background: #BDBDBD;
+    background-image: url(https://www.harrypotter.com/images/home/stars.png), linear-gradient(180deg, #15111d, #323657 121.35%);
+    background-position: 10% 661%, 50%, bottom !important;
+    background-size: 2000px auto, 2000px auto, 100% 100%;
 }
+
+.homeDinamic_RowComponents {
+    padding: 50px 0;
+}
+.mycard1:hover, .mycard2:hover, .mycard3:hover {
+    border: 2px solid white;
+}
+
 
 .bg-primary {
     --bs-bg-opacity: 1;
