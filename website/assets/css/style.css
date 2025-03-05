@@ -7,3 +7,6 @@ body{
 .homeDinamic_RowComponents {
     padding: 50px 0;
 }
+.mycard1:hover, .mycard2:hover, .mycard3:hover {
+    border: 2px solid white;
+}
