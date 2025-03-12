@@ -16,3 +16,17 @@ body{
     --bs-bg-opacity: 1;
     background-color: #dee2e6 !important;
 }
+/*.texto-descriptivo{
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    background-color: white;
+    width: 70%;
+    
+}
+
+@media (min-width: 768px) {
+    .texto-descriptivo{
+      font-size: 2.5rem;
+    }
+  }
