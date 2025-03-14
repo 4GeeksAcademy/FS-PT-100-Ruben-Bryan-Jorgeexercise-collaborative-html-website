@@ -12,6 +12,12 @@ body{
 }
 
 
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: rgb(61 33 67) !important;
+}
+
+
 .bg-primary {
     --bs-bg-opacity: 1;
     background-color: #dee2e6 !important;
